@@ -1,0 +1,1 @@
+click on the green /CODE/ button and press download zip and extract the file, after that there should be a text document with the script for python, after copying it, put it into python and it should make a window and tadaa!
